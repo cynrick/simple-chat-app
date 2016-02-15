@@ -1,1 +1,3 @@
-### A simple chat app using Node and websockets.
+### Simple Chat App
+
+A basic chat app implemented with Node.js and websockets.
